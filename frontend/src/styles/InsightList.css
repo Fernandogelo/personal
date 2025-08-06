@@ -1,0 +1,18 @@
+.insight-list {
+  margin-top: 10px;
+}
+
+.insight-title {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.no-insights {
+  font-size: 13px;
+  color: #999;
+}
+
+.insight-list ul {
+  padding-left: 18px;
+  font-size: 14px;
+}
